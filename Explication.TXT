@@ -1,0 +1,14 @@
+--------------------------- Base Template ----------------------------
+
+# Cette base Template est Fonctionnel ! 
+
+# Elle configurer de base en LocalHost 
+
+# Tout est expliquer/détailler dans le server.cfg 
+
+Merci de l'avoir télécharger !
+
+create ﾒﾒﾒﾒ#4779
+
+
+
